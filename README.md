@@ -1,5 +1,4 @@
-# Hotel-Booking-Cancellation-Prediction-
-Hotel Booking Cancellation Prediction  Using Machine Learning Model
+ 
 # Hotel Booking Cancellation Prediction
 
 A machine learning project that predicts which hotel bookings are likely to be canceled. A cancellation risk score can help hotel teams prioritize follow-up and plan room availability.
